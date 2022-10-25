@@ -1,0 +1,3 @@
+Tugas kecil arc day 1
+saya belajar tentang cara memakai github pertama kali dari tugas ini.
+File text ini akan saya commit di github dengan username AlbertChoe
